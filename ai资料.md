@@ -1,8 +1,10 @@
 ## 图像分隔sota
   UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces，https://arxiv.org/pdf/2312.15715.pdf
 ## text-embedding模型sota
-  sota榜：https://huggingface.co/spaces/mteb/leaderboard，
-  bge-base模型：https://github.com/FlagOpen/FlagEmbedding/blob/master/README_zh.md
+  ### sota榜
+  https://huggingface.co/spaces/mteb/leaderboard，
+  ### bge-base模型
+  https://github.com/FlagOpen/FlagEmbedding/blob/master/README_zh.md
 
 ## kg与RAG结合的讨论
   https://discuss.nebula-graph.com.cn/t/topic/14134
