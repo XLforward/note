@@ -16,7 +16,7 @@
 1. controlnet：添加控制信号给去噪过程，https://arxiv.org/abs/2302.05543，ControlNet的参数是需要训练fine tune的。fine tune完的ControlNet可以将额外的condition信息映射到参数固定的stable diffusion中。由于stable diffusion模型参数一致保持不变，它将维持强大的生成能力，而且不会因为fine tune的数据集太小而出现过拟合的问题。
 2. ReferenceNet，用于有参考图的生成，https://arxiv.org/pdf/2311.17117.pdf
 3. pose guider设计，将pose控制信息转为controlnet，https://arxiv.org/pdf/2311.17117.pdf
-4. Temporal Layer：https://arxiv.org/pdf/2307.04725.pdf
+4. Temporal Layer：animatediff,https://arxiv.org/pdf/2307.04725.pdf
 
 
 ## 文本到动作到视频流
