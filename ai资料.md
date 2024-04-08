@@ -21,6 +21,7 @@
 ## comfyui库
 1. 一个抠图、扣视频的的库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO
 2. 一个动画着色的库：https://github.com/ykdai/BasicPBC
+3. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/
 
 
 
