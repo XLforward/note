@@ -21,7 +21,7 @@
 ## comfyui库
 1. 一个抠图、扣视频的的库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO
 2. 一个动画着色的库：https://github.com/ykdai/BasicPBC
-3. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/，https://github.com/kijai/ComfyUI-DiffusionLight，模型:https://cdn.discordapp.com/attachments/1145677539738665020/1224765647909683280/diffusion_light_sdxl_lora_comfy.safetensors?ex=661eaee5&is=660c39e5&hm=06d70f334da69f6f7566bb1f3175586cfd1fdb3648f85a2be569907a4334ed9b&
+3. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/，https://github.com/kijai/ComfyUI-DiffusionLight ， 模型: https://cdn.discordapp.com/attachments/1145677539738665020/1224765647909683280/diffusion_light_sdxl_lora_comfy.safetensors?ex=661eaee5&is=660c39e5&hm=06d70f334da69f6f7566bb1f3175586cfd1fdb3648f85a2be569907a4334ed9b&
 4. champ的confy节点：https://github.com/kijai/ComfyUI-champWrapper
 5. 一个开源数字人的库museV：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
 
