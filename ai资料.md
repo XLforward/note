@@ -18,6 +18,11 @@
 3. pose guider设计，将pose控制信息转为controlnet，https://arxiv.org/pdf/2311.17117.pdf
 4. Temporal Layer：animatediff,https://arxiv.org/pdf/2307.04725.pdf
 
+## comfyui库
+1. 一个抠图、扣视频的的库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO
+2. 一个动画着色的库：https://github.com/ykdai/BasicPBC
+
+
 
 ## 文本到动作到视频流
 text to motion to video by Kijai@discord
