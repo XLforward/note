@@ -23,7 +23,7 @@
 2. 一个动画着色的库：https://github.com/ykdai/BasicPBC
 3. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/
 4. champ的confy节点：https://github.com/kijai/ComfyUI-champWrapper
-5. 一个开源数字人的库：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
+5. 一个开源数字人的库museV：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
 
 
 
