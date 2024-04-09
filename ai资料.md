@@ -19,13 +19,14 @@
 4. Temporal Layer：animatediff,https://arxiv.org/pdf/2307.04725.pdf
 
 ## comfyui库
-1. 一个抠图、扣视频的的库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO
-2. 一个动画着色的库：https://github.com/ykdai/BasicPBC
-3. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/，https://github.com/kijai/ComfyUI-DiffusionLight ， 模型: https://cdn.discordapp.com/attachments/1145677539738665020/1224765647909683280/diffusion_light_sdxl_lora_comfy.safetensors?ex=661eaee5&is=660c39e5&hm=06d70f334da69f6f7566bb1f3175586cfd1fdb3648f85a2be569907a4334ed9b&
-4. champ的confy节点：https://github.com/kijai/ComfyUI-champWrapper
-5. 一个开源数字人的库museV：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
-6. 支撑生成透明背景：https://github.com/huchenlei/ComfyUI-layerdiffuse
-7. 一个开源的声音clone库（从demo对比看，英文表达比gpt-sovits好，中文还没试）：https://github.com/kijai/ComfyUI-VoiceCraft
+1. ad comfyui版：https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved
+2. 一个抠图、扣视频的的库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO
+3. 一个动画着色的库：https://github.com/ykdai/BasicPBC
+4. 基于扩展模型的光照渲染：https://github.com/DiffusionLight/DiffusionLight/，https://github.com/kijai/ComfyUI-DiffusionLight ， 模型: https://cdn.discordapp.com/attachments/1145677539738665020/1224765647909683280/diffusion_light_sdxl_lora_comfy.safetensors?ex=661eaee5&is=660c39e5&hm=06d70f334da69f6f7566bb1f3175586cfd1fdb3648f85a2be569907a4334ed9b&
+5. champ的confy节点：https://github.com/kijai/ComfyUI-champWrapper
+6. 一个开源数字人的库museV：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
+7. 支撑生成透明背景：https://github.com/huchenlei/ComfyUI-layerdiffuse
+8. 一个开源的声音clone库（从demo对比看，英文表达比gpt-sovits好，中文还没试）：https://github.com/kijai/ComfyUI-VoiceCraft
 
 
 
