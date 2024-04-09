@@ -25,6 +25,7 @@
 4. champ的confy节点：https://github.com/kijai/ComfyUI-champWrapper
 5. 一个开源数字人的库museV：https://github.com/TMElyralab/MuseV/blob/main/README-zh.md
 6. 支撑生成透明背景：https://github.com/huchenlei/ComfyUI-layerdiffuse
+7. 一个开源的声音clone库（从demo对比看，英文表达比gpt-sovits好，中文还没试）：https://github.com/kijai/ComfyUI-VoiceCraft
 
 
 
